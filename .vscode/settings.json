@@ -1,0 +1,5 @@
+{
+    "javascript.suggest.completeFunctionCalls": false,
+    "html.format.extraLiners": "head, body, /html",
+    "emmet.includeLanguages": {"django-html":"html"}
+}
